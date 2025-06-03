@@ -2,4 +2,4 @@
 *Video url*
   :https://drive.google.com/drive/folders/11eVIX8fkoA-Fed7V0VeqDwQdiKb0dV1l?usp=drive_link
 ## conntent
-1.[[dos.py]]
+1.[dos.py]
