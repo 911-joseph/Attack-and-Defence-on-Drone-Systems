@@ -5,6 +5,4 @@
 # Project Files and Actions
 - [CityParkEnvironmentCollec](CityParkEnvironmentCollec) 
 - [README.md](README.md) 
-- [dos.py](dos.py)
-- [mitm.py](mitm.py)
 - [settings.json](settings.json) 
